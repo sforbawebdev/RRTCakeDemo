@@ -29,7 +29,7 @@ const HeaderSection4 = () => {
                     <div className="fz-3-header-left-content d-flex align-items-center">
                         <div className="fz-3-logo-container">
                             <Link href="/">
-                                <img src="images/logo-light.png" alt="logo" className="fz-3-logo"/>
+                                <img src="/images/logo-new-no-clearspace.png" alt="logo" className="fz-3-logo"/>
                             </Link>
                         </div>
                     </div>

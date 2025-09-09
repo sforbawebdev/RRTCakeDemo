@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" viewBox="0 0 480 120" aria-label="Butter & Bloom">
+  <defs>
+    <linearGradient id="bloom" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C9A86A"/><stop offset="1" stop-color="#5E473E"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="78" font-family="'Cormorant Garamond', serif" font-size="72" fill="url(#bloom)">Butter & Bloom</text>
+</svg>

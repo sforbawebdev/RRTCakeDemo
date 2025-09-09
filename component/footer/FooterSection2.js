@@ -12,7 +12,7 @@ const FooterSection2 = () => {
                         <div className="fz-footer-about">
                             <div className="fz-logo">
                                 <a href="index.html">
-                                    <img src="/images/logo-3.png" alt="logo"/>
+                                    <img src="/images/logo-new-no-clearspace.png" alt="logo"/>
                                 </a>
                             </div>
 
@@ -85,7 +85,7 @@ const FooterSection2 = () => {
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <p className="fz-copyright">&copy;
-                            {currentYear} Design & Developed by <b>CodeBasket</b>
+                            {currentYear} Design & Developed by <b>Raven Rock Technology</b>
                         </p>
                     </div>
 

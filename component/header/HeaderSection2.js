@@ -54,7 +54,7 @@ const HeaderSection2 = () => {
                     <div className="col-lg-3 col-md-6 col-9">
                         <div className="fz-logo-container">
                             <Link href="/">
-                                <img src="/images/logo-3.png" alt="logo" className="fz-logo"/>
+                                <img src="/images/logo-new-no-clearspace.png" alt="logo" className="fz-logo"/>
                             </Link>
                         </div>
                     </div>

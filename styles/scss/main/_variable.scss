@@ -60,49 +60,50 @@ $xs: '(max-width: 767px)';
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap');
 
 // ========================= COLORS =========================
+// ========================= COLORS =========================
 :root {
-    --clr-theme-primary: #0063d1;
-    --clr-theme-primary-dark: #024d9f;
-    --clr-theme-secondary: #00274C;
-    --clr-theme-tertiary: #FF2525;
-    --clr-theme-3: #9F4700;
-    --clr-theme-4: #bf8200;
-    --clr-theme-5: #C9F31D;
-    --clr-body-color: #777777;
-    --clr-body-dark: #191919;
-    --clr-body-dark-2: #1b1c19;
-    --clr-body-dark-3: #060606;
-    --clr-body-soft: #999999;
-    --clr-body-text: #616161;
-    --clr-common-white: #fff;
-    --clr-border-soft: #f2f2f2;
-    --clr-common-black: #282828;
-    --clr-common-black-deep: #000;
-    --clr-common-bg-gray: #f5f5f5;
-    --clr-gray-soft: #f8f8f8;
-    --clr-gray-2: #DBDBDB;
+  --clr-theme-primary: #E77CA4;        // strawberry pink
+  --clr-theme-primary-dark: #C25C83;   // raspberry
+  --clr-theme-secondary: #6C4A2F;      // cocoa brown
+  --clr-theme-tertiary: #FF9F45;       // apricot orange
+  --clr-theme-3: #8E6B3B;              // caramel
+  --clr-theme-4: #D9A441;              // honey gold
+  --clr-theme-5: #B1D96B;              // pistachio green
+  --clr-body-color: #6F6F6F;           // soft gray text
+  --clr-body-dark: #2E2A28;            // deep espresso
+  --clr-body-dark-2: #241F1C;          // darker brown-black
+  --clr-body-dark-3: #120F0D;          // near-black cocoa
+  --clr-body-soft: #A0A0A0;            // muted gray
+  --clr-body-text: #5A5A5A;            // standard body copy
+  --clr-common-white: #FFFFFF;         // pure white
+  --clr-border-soft: #F0EAE7;          // soft cream border
+  --clr-common-black: #2C2C2C;         // neutral black
+  --clr-common-black-deep: #000000;    // true black
+  --clr-common-bg-gray: #FAF7F5;       // off-white bakery background
+  --clr-gray-soft: #FDFCFB;            // ultra-light cream
+  --clr-gray-2: #E2DFDD;               // light warm gray
 }
 
-$black-0: #000;
-$black: #222222;
-$black-2: #606060;
-$black-3: #292929;
-$black-4: #282828;
-$white: #ffffff;
-$white-2: #F1F1F1;
-$white-3: #b3b7c8;
-$white-4: #f3f3f3;
-$bg-color: #eaf1f5;
-$bg-color-2: #f5f5f5;
-$bg-color-3: #0d0e22;
-$bg-color-4: #f7f7f7;
-$bg-color-5: #F9E3D9;
-$border-color: #EBEBEB;
-$border-color-2: #707070;
-$txt-color: #ccc;
-$txt-color-2: #ddd;
-$txt-color-3: #808080;
-$gold: #ffc801;
-$color-1: #0063D1;
-$color-2: #e9b808;
-$color-3 : #B8860B;
+$black-0: #000000;
+$black: #2B2B2B;        // deep neutral
+$black-2: #5C5C5C;      // mid gray
+$black-3: #3A2F2C;      // dark cocoa
+$black-4: #2C2623;      // espresso
+$white: #FFFFFF;
+$white-2: #F7F4F2;      // cream white
+$white-3: #DAD6D2;      // warm gray-white
+$white-4: #F3F0ED;      // soft cream
+$bg-color: #FFF8F6;     // bakery background
+$bg-color-2: #FAF5F3;   // light warm neutral
+$bg-color-3: #2A1E1C;   // rich chocolate
+$bg-color-4: #FEFCFB;   // off-white
+$bg-color-5: #FDE5DA;   // peach frosting
+$border-color: #E8E1DE; // soft border
+$border-color-2: #7D6E67; // muted cocoa border
+$txt-color: #C5C0BC;    // light muted
+$txt-color-2: #E0DAD6;  // lighter muted
+$txt-color-3: #7A6F6A;  // mid gray-brown
+$gold: #E6B655;         // warm bakery gold
+$color-1: #E77CA4;      // strawberry pink (matches primary)
+$color-2: #FF9F45;      // apricot orange (matches tertiary)
+$color-3: #8E6B3B;      // caramel brown

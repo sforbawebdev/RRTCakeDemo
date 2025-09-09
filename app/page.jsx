@@ -13,7 +13,7 @@ import {
 
 
 export const metadata = {
-  title: 'Verda - Cake Shop',
+  title: 'Butter and Bloom',
   description: 'Developed By Raven Rock Technology',
 };
 
