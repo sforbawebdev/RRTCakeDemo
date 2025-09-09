@@ -3,13 +3,17 @@ import { VerdaContext } from '@/context/VerdaContext';
 import React, { useContext } from 'react';
 
 const ProductTag = () => {
-  const {selectedTags, handleTagSelection} = useContext(VerdaContext)
+  const { selectedTags, handleTagSelection } = useContext(VerdaContext);
+
+  // Updated tags for cakes & bakery
   const tags = [
-    "Ring",
-    "Necklace",
-    "Bracelet",
-    "Hair Clip",
-    "Luxury Jewelry"
+    "Cake",
+    "Bakery",
+    "Cupcake",
+    "Chocolate",
+    "Vanilla",
+    "Fruit",
+    "Wedding",
   ];
 
   return (
